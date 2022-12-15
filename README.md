@@ -3,7 +3,7 @@
 ```javascript
 db.books.insertMany([
   {title: "Witcher", description: "Polish fantasy", authors: "Andrzej Sapkowski"},
-  {title: "Star Wars", description: "American fantastic", authors: "George Lucas"},
+  {title: "Star Wars", description: "American fantastic", authors: "George Lucas"}
 ]);
 ```
 
